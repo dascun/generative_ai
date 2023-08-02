@@ -1,4 +1,4 @@
-# generative_ai
+# Generative AI
 This project helps to understand simple implementations of Generative AI from scratch
 
 ## Variational Auto-Encoder (VAE)
